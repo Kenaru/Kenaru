@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kenaru
-- 👀 Je suis intéressé par le développement et tout ce qui concerne l'informatique
-- 🌱 J'étudie actuellement à l'ESGI
+- 👋 Hey there, I'm @Kenaru!
+- 👀 I'm passionate about coding and all things tech-related.
+- 🌱 Currently, I'm honing my skills at ESGI, diving deep into the world of computer science and development.
 
 <!---
 Kenaru/Kenaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
